@@ -53,7 +53,7 @@ const About = () => {
             }}
           >
             <h3>Pursuing Post Graduate Diploma in Advanced Computing from </h3>
-            <h3>C-DAC Mumbai</h3>
+            <h3>C-DAC Mumbai(Kharghar)</h3>
             <p>{jobSummary}</p>
           </Animate>
 
